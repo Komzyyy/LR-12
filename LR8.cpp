@@ -8,7 +8,7 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     float x, Z, dob;
-    cout << "Enter x: "; cin >> x;
+    cout << "Введіть x: "; cin >> x;
     dob = 1;
     for (int n = 1; n <= 5; n++) {
         dob *= log(n * x);
