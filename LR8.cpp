@@ -2,6 +2,7 @@
 #define _USE_MATH_DEFINES
 #include <cmath>
 #include "windows.h"
+#include <iomanip>
 using namespace std;
 int main()
 {
